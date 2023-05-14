@@ -1,5 +1,4 @@
-#include <iostream>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 
 // Given N numbers in input, print 2 lines, in first line, all evens integers in sorted order, in second line, all odd integers in sorted order.
